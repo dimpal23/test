@@ -1,0 +1,9 @@
+.cardbackground{
+    background-image: linear-gradient(to bottom right, #00bfad, #99a3d4);
+}
+
+.eventslogo{
+    color:blue !important;
+    height:50px !important;
+    width:50px !important;
+}

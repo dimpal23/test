@@ -1,0 +1,27 @@
+.logo{
+    height:50px;
+}
+.menuicon{
+    height:40px !important;
+    width:40px !important;
+}
+.sidebar{
+   position:absolute ;
+   background-color: #222f3e;
+   top:0;
+   right:0;
+   height:50vh;
+   color:#fff;
+   width:250px
+}
+
+.sidebar li{
+    list-style: none;
+    padding:1rem 2rem;
+    border-bottom: solid rgb(255, 255, 255,0.1);
+}
+
+.sidebar li:hover{
+    background-color: #fff;
+    color: #000;
+}

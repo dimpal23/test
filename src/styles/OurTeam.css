@@ -1,0 +1,9 @@
+.teamlogo{
+    color:blue !important;
+    height:50px !important;
+    width:50px !important;
+}
+.card{
+    border-radius: 0px 10px 20px 20px;
+    background-image: linear-gradient(to bottom right, #00bfad, #99a3d4);
+}
