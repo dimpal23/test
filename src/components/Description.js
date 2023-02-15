@@ -1,7 +1,5 @@
 import {
-  Button,
   Card,
-  CardActions,
   CardContent,
   CardMedia,
   Grid,

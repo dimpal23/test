@@ -2,7 +2,6 @@ import { Grid } from "@mui/material";
 import React from "react";
 import Logo from "../assets/IIC.png";
 import "../styles/Header.css";
-import MenuIcon from "@mui/icons-material/Menu";
 import SideNav from "./SideNav";
 
 const Header = () => {
